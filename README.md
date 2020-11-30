@@ -16,3 +16,5 @@ type: "npm start" into terminal
 ### 6) Normally it should be listening on port 4000 
 
 ### 7) Go run the Game_Board script
+
+### 7) "ctrl + c" to turn off server
